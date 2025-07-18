@@ -1,0 +1,42 @@
+{
+  "name": "mentions-hashtags",
+  "version": "1.0.0",
+  "description": "A tiny utility package to extract social media mentions (@user) and hashtags (#tag) with multilingual normalization support.",
+  "main": "mentionsHashtags.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mentions",
+    "hashtags",
+    "extract mentions",
+    "extract hashtags",
+    "social media parser",
+    "text parser",
+    "username extractor",
+    "hashtag extractor",
+    "unicode normalization",
+    "multi-language",
+    "tweet parser",
+    "post analyzer",
+    "social text utility",
+    "comment parser",
+    "caption analysis"
+  ],
+  "author": "rocketnozzle.io",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mentions-hashtags"
+  },
+
+  "homepage": "https://github.com/yourusername/mentions-hashtags#readme",
+  "engines": {
+    "node": ">=14"
+  },
+  "private": false,
+  "devDependencies": {
+    "jest": "30.0.4"
+  },
+  "type": "module"
+}
